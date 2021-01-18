@@ -1,0 +1,27 @@
+.adlogo{
+	max-width:35%;
+}
+.fresh {
+    background: #eaffd3 !important;
+}
+
+span.ct-label.ct-vertical.ct-start {
+    width: 15px !important;
+}
+div#daily-chart span.ct-label.ct-vertical.ct-start {
+    width: 30px !important;
+}
+.panel .panel-heading {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    position: relative;
+    background: #52394a;
+    color: #fff;
+    font-weight: bolder;
+    padding-left: 10px;
+}
+.panel .panel-body {
+    padding-top: 10px;
+    padding-bottom: 15px;
+    background: #d3b88433;
+}
